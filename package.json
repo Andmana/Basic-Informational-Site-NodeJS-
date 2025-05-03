@@ -1,0 +1,24 @@
+{
+    "name": "basic-informational-site",
+    "version": "1.0.0",
+    "description": "Odin Node.js course",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Andmana/Basic-Informational-Site-NodeJS-.git"
+    },
+    "author": "Andmana",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Andmana/Basic-Informational-Site-NodeJS-/issues"
+    },
+    "homepage": "https://github.com/Andmana/Basic-Informational-Site-NodeJS-#readme",
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
+}
